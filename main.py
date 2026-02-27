@@ -1,7 +1,7 @@
 import datetime
 import pandas as pd
 
-print("--- Smart Task Manager ---")
+print("---Task Manager---")
 
 tasks = []
 
@@ -80,3 +80,4 @@ if not df.empty:
 
 else:
     print("No tasks found to process.")
+
